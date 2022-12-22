@@ -9,7 +9,4 @@ while (number < 100 || number > 999)
     number = Convert.ToInt32(Console.ReadLine());
 }
 
-number = number / 10;
-number = number % 10;
-
-Console.WriteLine(number);
+Console.WriteLine(number / 10 % 10);
