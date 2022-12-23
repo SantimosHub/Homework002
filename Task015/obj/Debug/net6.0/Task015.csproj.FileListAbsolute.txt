@@ -1,0 +1,15 @@
+E:\Developer\cSharp\Homework002\Task015\bin\Debug\net6.0\Task015.exe
+E:\Developer\cSharp\Homework002\Task015\bin\Debug\net6.0\Task015.deps.json
+E:\Developer\cSharp\Homework002\Task015\bin\Debug\net6.0\Task015.runtimeconfig.json
+E:\Developer\cSharp\Homework002\Task015\bin\Debug\net6.0\Task015.dll
+E:\Developer\cSharp\Homework002\Task015\bin\Debug\net6.0\Task015.pdb
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\Task015.csproj.AssemblyReference.cache
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\Task015.GeneratedMSBuildEditorConfig.editorconfig
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\Task015.AssemblyInfoInputs.cache
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\Task015.AssemblyInfo.cs
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\Task015.csproj.CoreCompileInputs.cache
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\Task015.dll
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\refint\Task015.dll
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\Task015.pdb
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\Task015.genruntimeconfig.cache
+E:\Developer\cSharp\Homework002\Task015\obj\Debug\net6.0\ref\Task015.dll
